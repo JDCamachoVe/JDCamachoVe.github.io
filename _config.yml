@@ -9,3 +9,10 @@ github_link: https://github.com/JDCamachoVe
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# This ensures GitHub doesn't ignore your custom scripts
+include: [_includes]
