@@ -1,0 +1,11 @@
+remote_theme: yaoyao-liu/minimal-light
+title: Juan David Camacho Vega
+description: PhD Student at UNAL | Representation Theory | MLOps & AI Integrity
+orcid: https://orcid.org/0000-0003-2475-6227
+linkedin: https://www.linkedin.com/in/juan-david-camacho-data-python-matematicas/
+github_link: https://github.com/JDCamachoVe
+
+# This allows your site to render LaTeX math automatically
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
